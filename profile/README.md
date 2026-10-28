@@ -61,6 +61,14 @@ More at [custody.bsvkey.com](https://custody.bsvkey.com).
 
 Live: [dtn.bsvkey.com](https://dtn.bsvkey.com) and [weather.bsvkey.com](https://weather.bsvkey.com).
 
+## Machine-checked proofs
+
+| Repository | What it does |
+|---|---|
+| [bsvkey-axiom-proofs](https://github.com/BSVKey/bsvkey-axiom-proofs) | 15 BSVKey rules (payments, spend caps, names, receipts, custody) proven in Lean (57 theorems), with proof receipts anchored on Bitcoin BSV. Checked by Axiom's AXLE and, independently, by Lean's own kernel in CI on every push. Includes a public [advisory](https://github.com/BSVKey/bsvkey-axiom-proofs/blob/main/ADVISORY.md) on a proof of `False` that AXLE accepts |
+
+Check a receipt in your browser: [bsvkey.github.io/bsvkey-axiom-proofs](https://bsvkey.github.io/bsvkey-axiom-proofs/).
+
 ## Contact and security
 
 Questions or partnership: **embryospace@gmail.com**. Please report security issues
