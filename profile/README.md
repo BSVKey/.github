@@ -9,9 +9,16 @@ or on your machine. Payments and receipts can be checked by anyone, without trus
 Start at **[bsvkey.com](https://bsvkey.com)**, or see the on-chain transactions behind each
 product at **[proof.bsvkey.com](https://proof.bsvkey.com)**.
 
-Also live: [governor.bsvkey.com](https://governor.bsvkey.com) (spend limits for AI agents),
-[live.bsvkey.com](https://live.bsvkey.com) (pay-per-view live video) and
-[kids.bsvkey.com](https://kids.bsvkey.com) (Proof Detectives, a game about checking receipts).
+## Hosted apps
+
+| App | What it does |
+|---|---|
+| [BSVKey Live](https://live.bsvkey.com) | Live and recorded video carried on Bitcoin BSV: go live from your browser or OBS, get paid by the minute |
+| [Gatherings](https://bsvkey.com/gather) | Paid gatherings: limited seats on a price ladder, a stage you can bid for, live audio |
+| [Paid DMs](https://bsvkey.com/dm) | Strangers pay your price in Bitcoin BSV to reach your `.key` name; messages are encrypted to you, highest paid on top |
+| [Governor](https://governor.bsvkey.com) | A budget for every AI agent: caps per agent, approvals for big jobs, a kill switch and a signed spend record |
+| [Contact Gauge](https://gauge.bsvkey.com) | Pay-per-call API for AI agents: should you talk with this person? $0.02 per call in Bitcoin BSV over x402 |
+| [Proof Detectives](https://kids.bsvkey.com) | A kids' game about checking receipts |
 
 ## Pay per call: x402 on Bitcoin BSV
 
