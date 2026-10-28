@@ -9,6 +9,10 @@ or on your machine. Payments and receipts can be checked by anyone, without trus
 Start at **[bsvkey.com](https://bsvkey.com)**, or see the on-chain transactions behind each
 product at **[proof.bsvkey.com](https://proof.bsvkey.com)**.
 
+Also live: [governor.bsvkey.com](https://governor.bsvkey.com) (spend limits for AI agents),
+[live.bsvkey.com](https://live.bsvkey.com) (pay-per-view live video) and
+[kids.bsvkey.com](https://kids.bsvkey.com) (Proof Detectives, a game about checking receipts).
+
 ## Pay per call: x402 on Bitcoin BSV
 
 | Repository | What it does |
@@ -25,7 +29,7 @@ Hosted: [inference.bsvkey.com](https://inference.bsvkey.com) and
 
 | Repository | What it does |
 |---|---|
-| [bsvkey-names-extension](https://github.com/BSVKey/bsvkey-names-extension) | Open `.key` names in Chrome, Edge and Brave ([Chrome Web Store](https://chromewebstore.google.com/detail/jlcjljbhljhkfllaedejoalonobjoocd)) |
+| [bsvkey-names-extension](https://github.com/BSVKey/bsvkey-names-extension) | Open `.key` names in Chrome, Edge and Brave ([Chrome Web Store](https://chromewebstore.google.com/detail/jlcjljbhljhkfllaedejoalonobjoocd), [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/nmeeppefbhcadepjblmbajoibambbhhn)) |
 | [keyauth](https://github.com/BSVKey/keyauth) | Sign in with `.key`: verify a name owner's BSV signature, zero dependencies |
 | [name-index](https://github.com/BSVKey/name-index) | Free static snapshot of the on-chain name registry for fast lookups |
 
@@ -47,6 +51,7 @@ trusting any single party. Each repository runs offline with `npm test`.
 | [robotics-custody](https://github.com/BSVKey/robotics-custody) | Robot-to-robot handoffs and payments bound to them |
 | [finance-custody](https://github.com/BSVKey/finance-custody) | Holdings attestations and reserve reports |
 | [needs-custody](https://github.com/BSVKey/needs-custody) | Basic needs: water delivered, food aid, drought payouts |
+| [climate-custody](https://github.com/BSVKey/climate-custody) | Proof of measurement for carbon credits and other climate claims: signed meter readings, calibration, claims re-derived from the readings, double-counting checks |
 
 More at [custody.bsvkey.com](https://custody.bsvkey.com).
 
